@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... computing
 - 💞️ I’m looking to collaborate on ... rewriting the akashic record
 - 📫 How to reach me ... astral projection
-- 😄 Pronouns: ... 
+- 😄 Pronouns: ... lost at the ballot box
 - ⚡ Fun fact: ... i hate fun
 
 <!---
