@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... rewriting the akashic record
 - 📫 How to reach me ... astral projection
 - 😄 Pronouns: ... lost at the ballot box
-- ⚡ Fun fact: ... i hate fun
+- ⚡ Fun fact: ... I edit this occassionally to inflate my commit count
 
 <!---
 hd664x/hd664x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
